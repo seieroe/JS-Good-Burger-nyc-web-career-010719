@@ -1,23 +1,5 @@
-{"burgers":
-  [
-    {
-      "id": 1,
-      "name": "Good Burger",
-      "description": "What a Good Burger!",
-      "image": "https://www.lovelesscafe.com/uploads/recipeimages/BBQBaconBurger-web.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Sal's Burger",
-      "description": "Burger of Sal's!",
-      "image": "http://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/umami-bomb-burgers-ck.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Sloppy Beef",
-      "description": "Sloppimus Maximus",
-      "image": "https://www.budgetbytes.com/wp-content/uploads/2011/06/Sloppy-Joes-Plus-sandwich.jpg"
-    },
+{
+  "burgers": [
     {
       "id": 4,
       "name": "Glamburger",
@@ -65,6 +47,30 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "awesome burger",
+      "description": "so good",
+      "image": "http://www.allwhitebackground.com/images/5/Burger-Free-Images.jpg",
+      "id": 23
+    },
+    {
+      "name": "so good burger",
+      "description": "so good",
+      "image": "http://www.allwhitebackground.com/images/5/Burger-Free-Images.jpg",
+      "id": 24
+    },
+    {
+      "name": "good good ",
+      "description": "so great",
+      "image": "http://www.allwhitebackground.com/images/5/Burger-Free-Images.jpg",
+      "id": 25
+    },
+    {
+      "name": "good good ",
+      "description": "so great",
+      "image": "http://www.allwhitebackground.com/images/5/Burger-Free-Images.jpg",
+      "id": 26
     }
   ]
 }
